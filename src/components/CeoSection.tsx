@@ -1,10 +1,10 @@
-import ceoPortrait from "@/assets/ceo-portrait.jpg";
+import ceoPortrait from "../assets/me.jpg";
 import { Linkedin, Instagram, Twitter, Mail } from "lucide-react";
 
 const socials = [
   { icon: Linkedin, href: "https://www.linkedin.com/in/akeredolu-samuel-970707370/", label: "LinkedIn" },
-  { icon: Instagram, href: "#", label: "Instagram" },
-  { icon: Twitter, href: "#", label: "Twitter" },
+  { icon: Instagram, href: "https://www.instagram.com/samwissyy/  ", label: "Instagram" },
+  { icon: Twitter, href: "https://x.com/samwissyy", label: "Twitter" },
   { icon: Mail, href: "mailto:hello@wissyagency.com", label: "Email" },
 ];
 
